@@ -3,7 +3,7 @@
 
 # LAB | HTML & CSS - Spotify Clone
 
-Created this static page using HTML and CSS for Spotify Website
+Created this static Spotify Webpage using HTML and CSS for 
 
 <br>
 
